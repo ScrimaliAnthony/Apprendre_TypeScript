@@ -42,8 +42,6 @@ let array3: [string, string, ...number[]] = ["Anthony", "Scrimali", 28, 42, 55, 
 console.log(array3)
 
 // Si l'on est pas sûr de la présence d'un type, il est possible de le mettre sous condition avec ?
+let array4: [string, string, number, number?] = ["Anthony", "Scrimali", 28]
+console.log(array4);
 
-
-// Il est également possible de faire des tuples
-let employee: [string, number];
-// employee

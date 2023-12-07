@@ -30,6 +30,5 @@ console.log(array2);
 let array3 = ["Anthony", "Scrimali", 28, 42, 55, 64];
 console.log(array3);
 // Si l'on est pas sûr de la présence d'un type, il est possible de le mettre sous condition avec ?
-// Il est également possible de faire des tuples
-let employee;
-// employee
+let array4 = ["Anthony", "Scrimali", 28];
+console.log(array4);
